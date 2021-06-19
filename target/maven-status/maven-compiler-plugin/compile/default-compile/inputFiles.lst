@@ -1,0 +1,11 @@
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\dto\TaskDto.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\ActivitiApplicationConfig.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\domain\Event.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\service\EventService.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\dto\EventDto.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\JacksonConfig.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\repository\EventRepository.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\dto\ProcessDefinitionDto.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\dto\ProcessInstanceDto.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\controller\EventMonitorController.java
+H:\Idea_Practise_Workspace\activiti-demo-maven\src\main\java\com\amydegregorio\activiti\ActivitiApplication.java
