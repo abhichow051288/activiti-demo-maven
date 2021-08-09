@@ -144,7 +144,7 @@
       <bpmn:incoming>Flow_0j5x18n</bpmn:incoming>
     </bpmn:endEvent>
     <bpmn:sequenceFlow id="Flow_0j5x18n" sourceRef="Activity_0mbrl4c" targetRef="Event_0nml1l2" />
-    <bpmn:serviceTask id="Activity_1nrhj4k" name="Call Support">
+    <bpmn:serviceTask id="Activity_1nrhj4k" name="Call Support" camunda:delegateExpression="#{callSupport}">
       <bpmn:incoming>Flow_09hr5t6</bpmn:incoming>
       <bpmn:outgoing>Flow_0pd8amn</bpmn:outgoing>
     </bpmn:serviceTask>
